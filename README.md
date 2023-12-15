@@ -1,6 +1,6 @@
 # Projeto de Banco de Dados
 
-Esse projeto é o exercício final do módulo de banco de dados#
+Esse projeto é o exercício final do módulo de banco de dados
 
 ## Qual o objetivo? 👩‍💻 
 
